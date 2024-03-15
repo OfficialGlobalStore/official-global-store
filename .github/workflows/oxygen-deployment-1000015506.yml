@@ -3,7 +3,7 @@
 
 name: Storefront 1000015506
 on: [push]
- 
+
 permissions:
   contents: read
   deployments: write
